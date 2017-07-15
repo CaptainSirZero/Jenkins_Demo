@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    //当给你看到这句话的时候,你就是最新的了
+    //这是一个意外的事情
     return YES;
 }
 
